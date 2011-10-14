@@ -11,5 +11,7 @@ package p65.recursividad;
 public class TestRecursivo {
     public static void main(String args[]){
         System.out.println("hola");
+
+        System.out.println("Que masiso!! XD");
     }
 }
